@@ -1,0 +1,1 @@
+# friday-npm-test
